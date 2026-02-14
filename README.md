@@ -2,8 +2,9 @@
 
 This repo contains all the Excel files I used while following Luke Barousse’s course: Excel for Data Analytics. It’s part of my journey learning Data & Business Analytics, practicing how to turn data into actionable insights with Excel (Power Query/DAX).
 
-## Team Members 👥<img width="896" height="1200" alt="Excel Data" src="https://github.com/user-attachments/assets/21e07019-e921-4fee-b5bd-a72b449399b2" />
+<img width="896" height="1200" alt="Excel Data" src="https://github.com/user-attachments/assets/21e07019-e921-4fee-b5bd-a72b449399b2" />
 
+## Team Members 👥
 **🙋🏼‍♂️ Course Leader:** [Luke Barousse](https://www.linkedin.com/in/luke-b)  
 **🎬 Course Producer:** [Kelly Adams](https://www.linkedin.com/in/kellyjianadams)  
 **📺 Video Editor:** [Brannon Linder](https://www.linkedin.com/in/brannonlinder)
