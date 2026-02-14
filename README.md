@@ -1,6 +1,6 @@
 # 📊 Excel for Data Analytics 
 
-This repo contains all the Excel files I used while following Luke Barousse’s course: Excel for Data Analytics. It’s part of my journey learning Data & Business Analytics, practicing how to turn data into actionable insights with Excel (Power Query/DAX).
+This repo contains all the Excel files I used while following Luke Barousse’s course: [![Excel for Data Analytics](https://www.youtube.com/watch?v=pCJ15nGFgVg). It’s part of my journey learning Data & Business Analytics, practicing how to turn data into actionable insights with Excel (Power Query/DAX).
 
 <img width="896" height="1200" alt="Excel Data" src="https://github.com/user-attachments/assets/21e07019-e921-4fee-b5bd-a72b449399b2" />
 
